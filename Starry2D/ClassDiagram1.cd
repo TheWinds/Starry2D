@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Starry2D.Engine.BaseGameObject">
+    <Position X="1.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAACgAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Engine\BaseGameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Starry2D.Engine.FPSGameObj">
+    <Position X="1.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAAAAgAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Engine\FPSGameObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Starry2D.Engine.GameEngine">
+    <Position X="9" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAhgBAAEBACAAIAAAAAAAMwAIAEAAAkiIFBoAAAeJEY=</HashCode>
+      <FileName>Engine\GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Starry2D.Engine.GameObject">
+    <Position X="3.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAQABACCBCAAChAAACAAEEAAAAAYAACBJAAAACAEYAA=</HashCode>
+      <FileName>Engine\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Starry2D.Engine.GameSoundPlayer">
+    <Position X="6.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACEAAAEgAAAAAAAAAA=</HashCode>
+      <FileName>Engine\GameSoundPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Starry2D.Engine.GDIUtils">
+    <Position X="6.5" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAACIAAACAAAAAAAAACAAACAAAAAA=</HashCode>
+      <FileName>Engine\GDIUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
