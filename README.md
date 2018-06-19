@@ -15,10 +15,10 @@
 
 ## Demos
   基于Starry2D开发的Demo有：FlappyBird、打字游戏、演示程序（星空粒子效果，碰撞小球）。可以运行Demos直接查看
-  
+
 ## Some Demo Gifs
-![StarrySky]("http://orfg3zirg.bkt.clouddn.com/demo1.gif")
+![StarrySky](Demos/demo1.gif)
 
-![Ball]("http://orfg3zirg.bkt.clouddn.com/demo2.gif")
+![Ball](Demos/demo2.gif)
 
-![FlappyBird]("http://orfg3zirg.bkt.clouddn.com/demo3.gif")
+![FlappyBird](Demos//demo3.gif)
